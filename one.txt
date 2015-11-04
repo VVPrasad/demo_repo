@@ -1,1 +1,1 @@
-The is a first file
+This is a first text file.
